@@ -1,0 +1,1 @@
+{"ip": "1.32.255.214", "port": "22", "account": "root", "pwd": "BLUEasas1212"}
